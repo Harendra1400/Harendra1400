@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harendra Gundi 👋</h1>
 
 <h3 align="center">
-AI/ML Engineer | Generative AI & Agentic AI Developer | Master's Student in [Your Degree]
+AI/ML Engineer | Generative AI & Agentic AI Developer 
 </h3>
 
 <p align="center">
@@ -97,32 +97,16 @@ I build production-ready AI systems using LLMs, RAG, AI agents, cloud-native ML 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harendra1400&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harendra1400&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harendra1400&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/harendra-g/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:g.harendra1@outlook.com">
     <img src="https://img.shields.io/badge/Email-g.harendra1%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Harendra1400">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
