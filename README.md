@@ -192,31 +192,6 @@ Vector Databases
 
 ---
 
-## 📄 Enterprise RAG Platform
-
-Production Retrieval-Augmented Generation platform capable of
-
-- Intelligent Document Search
-- Context Engineering
-- Knowledge Base Search
-- Vector Search
-- Enterprise Question Answering
-
----
-
-## ⚡ AI Microservices Platform
-
-Production-ready FastAPI services providing
-
-- LLM APIs
-- RAG APIs
-- Embedding APIs
-- Authentication
-- Monitoring
-- Docker Deployment
-
----
-
 ## 👁️ Iris Recognition using Deep Learning
 
 Computer Vision project using
@@ -249,54 +224,6 @@ Educational Android application powered by
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- Build 25+ AI Projects
-- Open Source AI Libraries
-- Master Multi-Agent Systems
-- Production LLMOps
-- AI Evaluation Frameworks
-- MCP Ecosystem
-- Enterprise AI Architecture
-- Kubernetes AI Deployments
-
----
-
-# 📚 Currently Learning
-
-```text
-✓ Advanced Agentic AI
-✓ Context Engineering
-✓ Model Context Protocol (MCP)
-✓ AI Observability
-✓ LangGraph
-✓ AI Evaluation
-✓ Multi-Agent Systems
-✓ Production AI Infrastructure
-```
 
 ---
 
