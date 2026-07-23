@@ -1,118 +1,317 @@
-<h1 align="center">Hi, I'm Harendra Gundi 👋</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer | Generative AI & Agentic AI Developer 
-</h3>
+# Hi 👋 I'm Harendra Gundi
+
+### AI/ML Engineer • Generative AI • Agentic AI • LLM Applications
+
+<p>
+Building production-ready AI systems powered by <b>Large Language Models</b>, <b>Machine Learning</b>, and <b>Cloud Engineering</b>.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Developer;Agentic+AI+Engineer;RAG+%7C+LangGraph+%7C+LLMs;AWS+%7C+Azure+%7C+Python;Building+Production+AI+Applications" />
+
+[![Email](https://img.shields.io/badge/Email-red)](mailto:harendrag827@gmail.com)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm an **AI/ML Engineer** passionate about building intelligent applications that solve real business problems using modern AI.
+
+My work combines:
+
+- 🤖 Large Language Models
+- 🧠 Machine Learning
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤝 Multi-Agent AI Systems
+- ☁️ Cloud Native AI
+- 📈 MLOps & LLMOps
+
+I enjoy designing systems that move beyond simple chatbots into autonomous AI agents capable of reasoning, planning, retrieving information, and interacting with enterprise tools.
+
+---
+
+# 🚀 What I'm Currently Building
+
+🧠 Multi-Agent AI Applications
+
+📄 Enterprise RAG Systems
+
+🔍 Semantic Search Platforms
+
+⚡ FastAPI AI Backends
+
+🤖 MCP Servers
+
+📊 MLOps Pipelines
+
+☁️ AWS Bedrock Applications
+
+📦 Kubernetes AI Deployments
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,ts"/>
+
+</p>
+
+---
+
+## AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+**Generative AI**
+
+- GPT
+- Claude
+- AWS Bedrock
+- Azure OpenAI
+- LangChain
+- LangGraph
+- LlamaIndex
+- MCP
+- Prompt Engineering
+- Context Engineering
+- AI Agents
+- RAG
+
+---
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet"/>
+
+</p>
+
+- REST APIs
+- GraphQL
+- Microservices
+- Event Driven Architecture
+
+---
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure"/>
+
+</p>
+
+AWS
+
+- Bedrock
+- SageMaker
+- Lambda
+- API Gateway
+- S3
+- DynamoDB
+- EKS
+
+Azure
+
+- Azure OpenAI
+- Azure ML
+- Azure Functions
+- Azure App Service
+
+---
+
+## Databases
+
+- PostgreSQL
+- SQL Server
+- MongoDB
+- DynamoDB
+- Snowflake
+- Redis
+
+Vector Databases
+
+- Pinecone
+- ChromaDB
+- FAISS
+- Azure AI Search
+
+---
+
+## DevOps & MLOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,github,git"/>
+
+</p>
+
+- GitHub Actions
+- Azure DevOps
+- CI/CD
+- Model Deployment
+- Monitoring
+
+---
+
+# 🌟 Featured AI Projects
+
+## 🤖 Agentic Fraud Investigation Platform
+
+> Production AI system for banking fraud investigations.
+
+### Features
+
+✅ AI Agents
+
+✅ LangGraph
+
+✅ AWS Bedrock
+
+✅ Claude
+
+✅ Pinecone
+
+✅ Semantic Search
+
+✅ Context Retrieval
+
+✅ Fraud Intelligence
+
+---
+
+## 📄 Enterprise RAG Platform
+
+Production Retrieval-Augmented Generation platform capable of
+
+- Intelligent Document Search
+- Context Engineering
+- Knowledge Base Search
+- Vector Search
+- Enterprise Question Answering
+
+---
+
+## ⚡ AI Microservices Platform
+
+Production-ready FastAPI services providing
+
+- LLM APIs
+- RAG APIs
+- Embedding APIs
+- Authentication
+- Monitoring
+- Docker Deployment
+
+---
+
+## 👁️ Iris Recognition using Deep Learning
+
+Computer Vision project using
+
+- TensorFlow
+- OpenCV
+- VGG19
+- Feature Extraction
+- Deep Learning
+
+---
+
+## 🎮 Cat Math Game
+
+Educational Android application powered by
+
+- Unity
+- Azure Functions
+- Azure DevOps
+- CI/CD
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-I build production-ready AI systems using LLMs, RAG, AI agents, cloud-native ML platforms, and scalable data engineering pipelines.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- AI/ML Engineer with 9+ years of experience across Generative AI, Agentic AI, Machine Learning, Data Science, and Data Engineering.
-- Specialized in building LLM applications, AI agents, multi-agent workflows, RAG pipelines, semantic search platforms, and intelligent automation systems.
-- Hands-on with AWS Bedrock, Azure OpenAI, Claude, LangGraph, LangChain, Pinecone, SageMaker, Kubernetes, MLflow, and cloud-native AI deployment.
-- Experienced across banking, healthcare, retail, regulatory, and enterprise domains, delivering scalable AI solutions with measurable business impact.
-
----
-
-## 🎯 Current Focus
-
-- Working on enterprise AI/ML solutions involving fraud analytics, Agentic AI workflows, RAG-powered investigation systems, and cloud-native AI platforms.
-- Exploring advanced Generative AI, LLMOps, AI governance, model monitoring, vector search, and production-grade AI agents.
-- Currently pursuing/working on research at **[Your University Name]** focused on **[EVs / AI / ML / Data Science / Your Research Area]**.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-### AI, ML & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-</p>
-
-### Cloud & Backend
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### Data Engineering & Databases
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-</p>
-
-### DevOps, MLOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
----
-
-## 📌 Featured Work Areas
-
-- Agentic AI workflows with LangGraph, tool calling, ReAct reasoning, and human-in-the-loop systems.
-- Retrieval-Augmented Generation using Pinecone, Azure AI Search, embeddings, semantic search, and hybrid retrieval.
-- Cloud-native AI deployment using AWS, Azure, Docker, Kubernetes, Terraform, and CI/CD pipelines.
-- ML and deep learning systems for fraud detection, healthcare support, inventory intelligence, compliance risk, and analytics.
-- MLOps and LLMOps practices including MLflow, model registry, monitoring, drift detection, responsible AI, and AI governance.
-
----
-
-## 🤝 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/harendra-g/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:g.harendra1@outlook.com">
-    <img src="https://img.shields.io/badge/Email-g.harendra1%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Harendra1400">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
+# 🔥 GitHub Streak
 
 <p align="center">
-  Building intelligent systems that connect AI research, cloud engineering, and real-world business impact.
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Build 25+ AI Projects
+- Open Source AI Libraries
+- Master Multi-Agent Systems
+- Production LLMOps
+- AI Evaluation Frameworks
+- MCP Ecosystem
+- Enterprise AI Architecture
+- Kubernetes AI Deployments
+
+---
+
+# 📚 Currently Learning
+
+```text
+✓ Advanced Agentic AI
+✓ Context Engineering
+✓ Model Context Protocol (MCP)
+✓ AI Observability
+✓ LangGraph
+✓ AI Evaluation
+✓ Multi-Agent Systems
+✓ Production AI Infrastructure
+```
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email
+
+**harendrag827@gmail.com**
+
+---
+
+<div align="center">
+
+### 💡 "Building AI that doesn't just answer questions—it solves problems."
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
